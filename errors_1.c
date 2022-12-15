@@ -1,6 +1,7 @@
 /*
  * File: errors_1.c
- * Auth: Felix Nwaora
+ * Auth: Felix Bamson
+ * Auth: Chinecherem Luther-onyemkpa
  */
 
 #include "monty.h"
