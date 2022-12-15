@@ -1,6 +1,7 @@
 /*
  * File: set_op_tok_error.c
- * Auth: Felix Nwaora
+ * Auth: Felix Bamson
+ * Auth: Chinecherem Luther-onyemkpa
  */
 
 #include "monty.h"
