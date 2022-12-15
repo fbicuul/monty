@@ -1,6 +1,7 @@
 /*
  * File: monty_funcs_3.c
- * Auth: Felix Nwaora
+ * Auth: Felix Bamson
+ * Auth: Chinecherem Luther-onyemkpa
  */
 
 #include "monty.h"
