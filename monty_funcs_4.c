@@ -1,7 +1,7 @@
 /*
  * File: monty_funcs_4.c
- * Auth: Bennett Dixon
- *       Brennan D Baraban
+ * Auth: Felix Bamson
+ * Auth: Chinecherem Luther-onyemkpa
  */
 
 #include "monty.h"
