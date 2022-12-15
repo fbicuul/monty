@@ -1,6 +1,7 @@
 /*
  * File: tokenize_string.c
- * Auth: Flix Nwaora
+ * Auth: Felix Bamson
+ * Auth: Chinecherem Luther-onyemkpa
  */
 
 #include <stdlib.h>
